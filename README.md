@@ -23,7 +23,7 @@ Predict whether an individual has diabetes based on medical and demographic feat
 ---
 
 ## 📂 Repository Structure
-
+```
 diabetes_dataset_ML/
 │
 ├── data_sets/ # Source dataset(s)
@@ -32,7 +32,7 @@ diabetes_dataset_ML/
 ├── diabetes_dataset_ML.ipynb # Jupyter notebook with full workflow
 ├── README.md # Project documentation (this file)
 └── LICENSE # MIT License
-
+```
 
 
 
